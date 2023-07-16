@@ -1,0 +1,40 @@
+{
+    "name": "Telebot-Bin",
+    "version": "1.1.0",
+    "description": "Chatbot Telegram can control IoT via API/endpoint",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "chalk": "^4.1.0",
+        "cheerio": "^1.0.0-rc.12",
+        "form-data": "^4.0.0",
+        "moment-timezone": "^0.5.43",
+        "node-cron": "^3.0.2",
+        "node-fetch": "^2.6.7",
+        "request": "^2.88.2",
+        "save-image": "^0.0.3",
+        "telegraf": "^4.3.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Stalker-moment/TeleBot-Bin.git"
+    },
+    "keywords": [
+        "telegram",
+        "bot",
+        "telegram-bot"
+    ],
+    "author": "TierKun",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Stalker-moment/TeleBot-Bin/issues"
+    },
+    "homepage": "https://github.com/Stalker-moment/TeleBot-Bin#readme"
+}
