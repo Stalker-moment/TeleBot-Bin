@@ -6,6 +6,9 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/download/win)
 
+## This Repo Connected With Other Repo 
+* [`Smartbin`](https://github.com/Stalker-moment/SmartBin)
+
 
 ## Cloning this repo
 ```cmd
