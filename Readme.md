@@ -9,7 +9,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone [(this repo)](https://github.com/Stalker-moment/TeleBot-Bin/)
+> git clone https://github.com/Stalker-moment/TeleBot-Bin/
 > cd TeleBot-Bin
 ```
 
