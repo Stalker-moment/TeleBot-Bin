@@ -1,4 +1,4 @@
-# LoL Human Telegram Bot
+# TeleBot Bin
 
 # Installation
 
